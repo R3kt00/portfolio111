@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Lucas | Full Stack Dev",
-  description: "Portfólio de Lucas de Moraes, desenvolvedor web.",
+  title: "Leo | Full Stack Dev",
+  description: "My personal portfolio",
   icons: {
     icon: "https://devlucas.website/imgs/favicon.png"
   },
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Lucas | Full Stack Dev",
+    title: "Leo | Full Stack Dev",
     description: "Portfólio de Lucas de Moraes, desenvolvedor web.",
     images: ["https://devlucas.website/imgs/favicon.png"],
   }
