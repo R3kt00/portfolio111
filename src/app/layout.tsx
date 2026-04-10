@@ -14,21 +14,21 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Leo | Full Stack Dev",
-  description: "My personal portfolio",
+  description: "Leo. K | Developer Portfolio",
   icons: {
-    icon: "https://devlucas.website/imgs/favicon.png"
+    icon: "https://imgur.com/a/nhxVVOM"
   },
   openGraph: {
-    title: "Lucas de Moraes | Full Stack Dev",
-    description: "Confira meu portfólio com projetos de desenvolvimento web.",
-    url: "https://devlucas.website",
-    siteName: "Lucas",
+    title: "Leo | Full Stack Dev",
+    description: "View my portfolio of development projects.",
+    url: "https://r3kt.tech",
+    siteName: "R3kt",
     images: [
       {
-        url: "https://devlucas.website/imgs/favicon.png",
+        url: "https://imgur.com/a/nhxVVOM",
         width: 256,
         height: 256,
-        alt: "Portfólio de Lucas de Moraes",
+        alt: "Leo. K | Developer Portfolio",
       },
     ],
     locale: "pt_BR",
@@ -37,8 +37,8 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Leo | Full Stack Dev",
-    description: "Portfólio de Lucas de Moraes, desenvolvedor web.",
-    images: ["https://devlucas.website/imgs/favicon.png"],
+    description: "Leo. K | Developer Portfolio",
+    images: ["https://imgur.com/a/nhxVVOM"],
   }
 };
 
